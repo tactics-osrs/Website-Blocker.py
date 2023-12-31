@@ -24,6 +24,8 @@ Requirements
 Python 3.x
 Administrative privileges for modifying the hosts file
 Disclaimer
-This script modifies your system’s hosts file. Always make sure to have a backup of the original file before running the script. Be careful when editing the hosts file as it could affect your system’s network settings.
+This script modifies your system’s hosts file.
+Always make sure to have a backup of the original file before running the script.
+Be careful when editing the hosts file as it could affect your system’s network settings.
 
 Also, remember that using such scripts could be against the terms of service of some websites. Always use such scripts responsibly.
