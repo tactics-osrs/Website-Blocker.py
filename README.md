@@ -17,6 +17,7 @@ Run Website Unblocker.py to Unblock all websites effected by website blocker.
 To do so open CMD, type python website_unblocker.py, and press enter.
 
 ```python
+python website_unblocker.py
 python website_blocker.py
 
 Requirements
