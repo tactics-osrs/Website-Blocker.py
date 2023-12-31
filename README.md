@@ -13,6 +13,9 @@ This Python script allows you to block access to specific websites during certai
 
 To use the script, simply run it in a Python environment. You will be prompted to enter the websites to block and the start and end times for the ban.
 
+Run Website Unblocker.py to Unblock all websites effected by website blocker.
+To do so open CMD, type python website_unblocker.py, and press enter.
+
 ```python
 python website_blocker.py
 
